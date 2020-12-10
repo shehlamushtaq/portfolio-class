@@ -1,5 +1,11 @@
+.Skils-class{
+  border: black solid 1px;
+}
+
 .App {
+  /* background-color: pink; */
   text-align: center;
+
 }
 
 .App-logo {
